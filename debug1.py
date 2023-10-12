@@ -1,7 +1,6 @@
 """
-Fix the errors so that this prints the numbers from 5 to 10
+print all of the names in the list
 """
-
-for i in (5,11):
-  print(i)
-  
+people = ("Joe","Sally","Christine","Benjamin","Casey")
+for i in people
+  print(f"Hello {i}, how are you?")

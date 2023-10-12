@@ -51,9 +51,8 @@ print("All done!")
 ### XX Tasks
 
 ##### Task 1
-Ask the user to enter an integer.
-Print the multiplication tables up to 12 for that number
-using a for loop instead of a while loop.
+Use a for loop to iterate through the list of numbers.
+If the number is an even number print it out.
 (2 points) 
 
 ###### Task 2
@@ -67,27 +66,4 @@ Given a typle that contains a series of numbers, list all the ones that are
 divisible by 5
 (2 points)
 
-
-###### Problem 1
-Ask the user to enter in the width and height of a box.
-This should be an integer value less than 10
-Draw a box filled with "*" symbols that matches the
-width and height.
-You will need 2 nested loops to draw the contents of
-1 row and the number of rows.
-
-##### Problem 2
-Calculate the factorial of a number. 
-A factorial is defined as:
-5! = 1 * 2 * 3 * 4 * 5
-5! = 120
-
-3! = 1 * 2 * 3
-3! = 6
-
-##### Problem 3
-Have the user enter an integer that is smaller than 10
-Find the sum of the series:
-1 + 11 + 111 + 1111 + ....
-for the n terms, where the nth term has n number of 1's
 

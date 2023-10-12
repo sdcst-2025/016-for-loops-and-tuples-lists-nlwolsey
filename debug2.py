@@ -1,6 +1,9 @@
+""" 
+iterate through the list of numbers and print them out
+print finished when done
 """
-print all of the names in the list
-"""
-people = ("Joe","Sally","Christine","Benjamin","Casey")
-for i in people
-  print(f"Hello {i}, how are you?")
+
+for i in (3, 5, 7, 1, 2, 4, 9]
+    print(i)
+else:
+          print("finished!")
