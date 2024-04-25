@@ -16,7 +16,7 @@ for i in players:
     if i == "Ryu":
         continue
     print("===")
-    print( i + " is going to the mall")
+    print(f"{i} is going to the mall")
     print("---")
 else:
     # a For loop can optionally end with an else:

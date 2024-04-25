@@ -21,6 +21,5 @@ for i in players:
     All the tuple members will take turns being i
     """
     print("===")
-    print( i + " is going to the mall")
+    print(f"{i} is going to the mall")
     print("---")
-    print("\n")

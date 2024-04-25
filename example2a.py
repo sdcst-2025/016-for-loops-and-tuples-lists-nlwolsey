@@ -18,6 +18,4 @@ for i in players:
     if i == "Ryu":
         break
     print("===")
-    print( i + " is going to the mall")
-    print("---")
-    print("\n")
+    print(f"{i} is going to the mall")
