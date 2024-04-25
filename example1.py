@@ -14,7 +14,13 @@ myFriends = ("Carol","Christine","Dan","Richard")
 otherFriends = ["Oscar","Benjamin","Casey","Chessy"]
 
 # we can print out the entire list or tuple using its name
+print("The variable myFriends contains:")
 print(myFriends)
+print(f"this variable is of type: {type(myFriends)}")
+
+print("\n\n\nThe variable myFriends contains:")
+print(otherFriends)
+print(f"this variable is of type: {type(otherFriends)}")
 print(otherFriends)
 
 
