@@ -7,6 +7,7 @@ data = [3,4,5,1,2,3,4,5,6,7,1,2,1,0]
 while True:
   print(f"The list contains {data}")
   x = input("Enter a number to look for")
+  x = int(x)
   if x in data:
     print(f"{x} is in the list")
   print("\n\n")
