@@ -55,7 +55,7 @@ Use a for loop to iterate through the list of numbers.
 If the number is an even number print it out.
 (2 points) 
 
-###### Task 2
+##### Task 2
 Ask the user to enter a name.
 Check the name against a tuple that contains a series of names to see if it is a match. Use a for loop this time instead of a single if with multiple
 logical operators
@@ -66,4 +66,16 @@ Given a typle that contains a series of numbers, list all the ones that are
 divisible by 5
 (2 points)
 
+##### Task 4
+Ask the user to enter in a number less than 10
+Print out the list element that corresponds to that
+position in the tuple
+(2 points)
 
+##### Task 5
+Iterate through the list of numbers.
+If the number is positive, determine the square root of the number.
+State the number and the square root value.
+Note: You will need to use some kind of conditional statement to find out if the number is negative, 
+because we can't take the square root of a negative.
+(2 points)
